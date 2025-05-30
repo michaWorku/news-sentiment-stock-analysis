@@ -6,5 +6,6 @@ nltk
 textblob
 scikit-learn
 yfinance
-ta-lib
+# ta-lib
 jupyter
+wordcloud
