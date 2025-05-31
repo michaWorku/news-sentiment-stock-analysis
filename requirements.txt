@@ -9,3 +9,6 @@ yfinance
 # ta-lib
 jupyter
 wordcloud
+# pyfolio
+pynance
+plotly
