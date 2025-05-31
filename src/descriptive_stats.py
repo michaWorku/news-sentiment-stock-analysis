@@ -76,7 +76,7 @@ class DescriptiveStats:
 
 
 # Example Usage
-# stats = DescriptiveStats("/home/micha/Downloads/course/10-accademy/week-1/news-sentiment-stock-analysis/extracted_data/raw_analyst_ratings.csv")
+# stats = DescriptiveStats("../extracted_data/raw_analyst_ratings.csv")
 # print(stats.headline_length_statistics())
 # print(stats.articles_per_publisher().head(10))
 # stats.plot_publication_trends()

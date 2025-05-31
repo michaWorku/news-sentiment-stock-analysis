@@ -56,7 +56,7 @@ class DataIngestorFactory:
 # Example usage:
 if __name__ == "__main__":
     # # Specify the file path
-    file_path = "/home/micha/Downloads/course/10-accademy/week-1/news-sentiment-stock-analysis/data/yfinance_data.zip"
+    file_path = "../data/yfinance_data.zip"
 
     # # Determine the file extension
     file_extension = os.path.splitext(file_path)[1]
